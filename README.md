@@ -52,11 +52,48 @@ Helped the company transition to a **paperless workflow**, optimized inventory o
 
 ---
 
-## 🖼️ Screenshots (Coming Soon)
+## 🖼️ Screenshots
 
-> *(You can add screenshots here by uploading them to the repo and using markdown syntax)*
+### 🔐 Login Page
+![Login](tampilan%20sistem/login.jpg)
 
----
+### 🏠 Dashboard
+![Dashboard](tampilan%20sistem/dashboard.jpg)
+
+### 📝 View Adjustment
+![View Adjustment](tampilan%20sistem/view%20adjustment.jpg)
+
+### 📤 Submit Adjustment
+![Submit Adjustment](tampilan%20sistem/submit%20adjustment.jpg)
+
+### ✏️ Edit Adjustment
+![Edit Adjustment](tampilan%20sistem/edit%20adjustment.jpg)
+
+### 🔄 Edit Transfer
+![Edit Transfer](tampilan%20sistem/edit%20transfer.jpg)
+
+### 🕘 History Adjustment
+![History Adjustment](tampilan%20sistem/history%20adjust.jpg)
+![History Adjustment 2](tampilan%20sistem/history%20adjust2.jpg)
+
+### 🗑️ Alert Delete Adjustment
+![Alert Delete](tampilan%20sistem/alert%20delete%20adjust.jpg)
+
+### ❌ Cancel LOT View
+![Cancel LOT](tampilan%20sistem/view%20cancel%20lot.jpg)
+
+### ✅ View Daily Approved
+![Daily Approved](tampilan%20sistem/view%20daily%20approved.jpg)
+
+### ❌ View Daily Disapproved
+![Daily Disapproved](tampilan%20sistem/view%20daily%20disapproved.jpg)
+
+### 📦 View Transfer Stock
+![Transfer Stock](tampilan%20sistem/view%20transfer%20stock.jpg)
+
+### 🕓 View Waiting Approved
+![Waiting Approved](tampilan%20sistem/view%20waiting%20approved.jpg)
+
 
 ## 🧪 How to Run the Project Locally
 
