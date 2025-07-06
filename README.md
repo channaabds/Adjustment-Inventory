@@ -1,4 +1,5 @@
 # 🧾 Adjustment-Inventory System
+### PT Nihon Seiki Indonesia
 
 A web-based internal system designed to digitize and streamline the **inventory adjustment process** at PT Nihon Seiki Indonesia. This application replaces the previous manual (paper-based) method and integrates seamlessly with the company’s **SAP-based ERP system**, enabling **real-time updates** and **inventory synchronization**.
 
